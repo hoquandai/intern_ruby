@@ -1,0 +1,13 @@
+# DAY1
+1. Module vs Class
+# END
+
+# DAY2
+Active record validations: https://guides.rubyonrails.org/active_record_validations.html
+
+Form_with: http://api.rubyonrails.org/v5.2.3/classes/ActionView/Helpers/FormHelper.html#method-i-form_with
+
+Routin: https://guides.rubyonrails.org/routing.html
+
+Security: https://guides.rubyonrails.org/security.html
+# END
